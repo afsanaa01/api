@@ -1,0 +1,24 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(../images/yohan-marion-n41pqI6IkjE-unsplash.jpg); 
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+input{
+    border-radius: 5px;
+    height: 40px;
+    border: 1px solid;
+}
+select{
+    border-radius: 5px;
+    height: 40px;
+    border: 1px solid;
+    margin-left: 10px!important;
+}
